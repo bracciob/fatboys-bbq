@@ -1,0 +1,1 @@
+var e=`/fatboys-bbq/assets/brisket-BxqO3F2T.jpg`;export{e as t};
